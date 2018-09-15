@@ -1,0 +1,1 @@
+The first version of my Opus bot, a server management bot. Old, inefficient code; please excuse. 

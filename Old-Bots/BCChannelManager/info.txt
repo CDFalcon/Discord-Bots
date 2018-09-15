@@ -1,0 +1,1 @@
+Created for Battlecord, a recently disbanded Discord that peaked at 50k members. Creates editable, temporary private voice channels for average users without granting additional permission.

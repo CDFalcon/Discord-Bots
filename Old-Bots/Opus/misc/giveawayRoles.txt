@@ -1,0 +1,12 @@
+Owner
+Admin
+Moderator
+Developer
+Streamer
+Trusted Member
+Special Trusted Member
+Channel Manager
+Community Manager
+Donator
+Kinetic OG
+Kinetic Team Leader

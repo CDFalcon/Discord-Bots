@@ -1,0 +1,1 @@
+Honestly, not sure if this bot actually works or not. Anyways, *really* simple bot: just browses reddit and reports its findings. Glorious, truly. 
