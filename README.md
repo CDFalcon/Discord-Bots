@@ -1,2 +1,4 @@
 # Discord-Bots
-A collection of my past scripts and bots using Discord's python3 API. Some poor practices are present, however most of this code is years old so please excuse the sloppiness.
+A variety of my Discord bots, some commissioned and some private. Current-Projects contains my most recent project(s) -- work in progress.
+
+Some poor practices are present; please excuse the occasional sloppiness on the older bots. 
