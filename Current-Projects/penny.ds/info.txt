@@ -1,3 +1,3 @@
-An AI bot designed to assist admins with massive communities. Can create bash shells and manage the computer or server from which the bot is run. 
-Uses a natural-language AI to remove the need for CLI; Penny (the name of the bot) functions based only on normal text-based messages.
+An AI bot designed to assist admins with massive communities. Penny (the name of the bot) can create bash shells and manage the computer or server from which the bot is hosted.
+Penny a natural-language AI to remove the need for CLI and functions based only on normal text-based messages.
 Work in progress, excuse any bugs you may find.
