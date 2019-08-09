@@ -1,7 +1,6 @@
 import discord
 from discord.ext import commands
 from discord.ext.commands import Bot
-from discord.ext import commands
 import praw
 import pdb
 import re
