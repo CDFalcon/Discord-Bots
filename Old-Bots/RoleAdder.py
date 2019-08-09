@@ -4,9 +4,6 @@
 import discord
 from discord.ext import commands
 from discord.ext.commands import Bot
-from discord.ext import commands
-from datetime import datetime
-import random
 
 bot = commands.Bot(command_prefix='?')
 
